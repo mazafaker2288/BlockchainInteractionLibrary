@@ -1,20 +1,23 @@
 {
   "name": "blockchaininteractionlibrary",
-  "version": "1.0.0", 
-  "description": "by mazafaker2288", 
+  "version": "1.0.1",
+  "description": "by mazafaker2288",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": ""
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "learningmodeldeployment": "^1.0.1"
+  }
 }
